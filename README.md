@@ -52,5 +52,5 @@ python eval_rd3qn.py --weight_reg=1e-4
 
 To evaluate an offline dueling DQN policy, please run
 ```
-python eval_rd31n.py --weight_reg=0.0
+python eval_rd3qn.py --weight_reg=0.0
 ```
